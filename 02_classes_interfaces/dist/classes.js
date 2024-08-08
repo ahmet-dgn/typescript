@@ -45,4 +45,4 @@ accounting.printReports();
 accounting.addEmployee("Name");
 accounting.addEmployee("Manu");
 accounting.printEmployeeInformation();
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=classes.js.map
